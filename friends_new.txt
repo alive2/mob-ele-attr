@@ -1,0 +1,619 @@
+(0130100) - [F3] Fire: Weak 
+(0210100) - [L3] Lighting: Weak 
+Green Mushroom (1110100) - [S1] Poison: Immune 
+Dark Stump (1110101) - [F3] Fire: Weak 
+Dejected Green Mushroom (1110130) - [S1] Poison: Immune 
+Octopus (1120100) - [L3] Lighting: Weak 
+Jr. Cactus (2100102) - [F3] Fire: Weak 
+Cactus (2100103) - [F3] Fire: Weak 
+Royal Cactus (2100104) - [F3] Fire: Weak 
+Bellamoa (2100105) - [S2] Poison: Strong 
+Ear Plug Plead (2100106) - [F2] Fire: Strong 
+Scarf Plead (2100107) - [F2] Fire: Strong 
+Dark Axe Stump (2130100) - [F3] Fire: Weak 
+Zombie Mushroom (2230101) - [H3D2] Holy: Weak | Darkness: Strong 
+Trixter (2230103) - [H2F3D3] Holy: Strong | Fire: Weak | Darkness: Weak 
+Green Trixter (2230104) - [S1] Poison: Immune 
+Seacle (2230105) - [S3F2] Poison: Weak | Fire: Strong 
+Cico (2230106) - [S3F2] Poison: Weak | Fire: Strong 
+Krappy (2230107) - [S3F2] Poison: Weak | Fire: Strong 
+Pinboom (2230108) - [F2] Fire: Strong 
+Bubble Fish (2230109) - [L3S3F2] Lighting: Weak | Poison: Weak | Fire: Strong 
+Annoyed Zombie Mushroom (2230131) - [H3] Holy: Weak 
+Flower Fish (2230200) - [I3S2F2] Ice: Weak | Poison: Strong | Fire: Strong 
+Sentinel (3000000) - [H2L2I3] Holy: Strong | Lighting: Strong | Ice: Weak 
+Krip (3000006) - [S3F2] Poison: Weak | Fire: Strong 
+Sand Dwarf  (3100101) - [F3I3] Fire: Weak | Ice: Weak 
+Ligator (3110100) - [I2F3] Ice: Strong | Fire: Weak 
+Dark Sand Dwarf  (3110301) - [F2I3] Fire: Strong | Ice: Weak 
+Fire Boar (3210100) - [F2I3] Fire: Strong | Ice: Weak 
+Jr. Cellion (3210200) - [F2I3] Fire: Strong | Ice: Weak 
+Jr. Lioner (3210201) - [L2I3] Lighting: Strong | Ice: Weak 
+Jr. Grupin (3210202) - [I2F3] Ice: Strong | Fire: Weak 
+Scuba Pepe (3210450) - [I2F2] Ice: Strong | Fire: Strong 
+Curse Eye (3230100) - [S2] Poison: Strong 
+Jr. Wraith (3230101) - [H3F3D2] Holy: Weak | Fire: Weak | Darkness: Strong 
+Lorang (3230102) - [L3] Lighting: Weak 
+Mask Fish (3230104) - [F2] Fire: Strong 
+Star Pixie (3230200) - [H2D3] Holy: Strong | Darkness: Weak 
+Jr. Seal (3230405) - [F2] Fire: Strong 
+Dark Nependeath (4130102) - [H3D2] Holy: Weak | Darkness: Strong 
+Dark Nependeath (4130104) - [H3D2] Holy: Weak | Darkness: Strong 
+Cold Eye (4230100) - [I2F3] Ice: Strong | Fire: Weak 
+Zombie Lupin (4230101) - [H3D2] Holy: Weak | Darkness: Strong 
+Wraith (4230102) - [H3D2] Holy: Weak | Darkness: Strong 
+Clang (4230104) - [L3] Lighting: Weak 
+Nependeath (4230105) - [F3] Fire: Weak 
+Block Golem (4230109) - [L2I2F3] Lighting: Strong | Ice: Strong | Fire: Weak 
+Robo (4230111) - [I2F2] Ice: Strong | Fire: Strong 
+Ultra Gray (4230118) - [L2] Lighting: Strong 
+Nependeath (4230122) - [F3] Fire: Weak 
+Sparker (4230123) - [L2F2] Lighting: Strong | Fire: Strong 
+Freezer (4230124) - [I2F2] Ice: Strong | Fire: Strong 
+Skeledog (4230125) - [H3D2] Holy: Weak | Darkness: Strong 
+Mummydog (4230126) - [H3D2] Holy: Weak | Darkness: Strong 
+Poopa (4230200) - [S3F2] Poison: Weak | Fire: Strong 
+Poison Poopa (4230201) - [S2F2] Poison: Strong | Fire: Strong 
+Moon Bunny (4230300) - [I2F3] Ice: Strong | Fire: Weak 
+Desert Giant  (4230600) - [F3I3] Fire: Weak | Ice: Weak 
+Chief Gray (4240000) - [I2L2F2H2D2] Ice: Strong | Lighting: Strong | Fire: Strong | Holy: Strong | Darkness: Strong 
+Jr. Yeti (5100000) - [I2F3] Ice: Strong | Fire: Weak 
+Transforming Jr. Yeti (5100001) - [I2F3] Ice: Strong | Fire: Weak 
+Firebomb (5100002) - [F2I3] Fire: Strong | Ice: Weak 
+Samiho (5100004) - [F3H3D2] Fire: Weak | Holy: Weak | Darkness: Strong 
+Hogul (5100005) - [F2I3] Fire: Strong | Ice: Weak 
+Luster Pixie (5120000) - [I2F2L2H2D2] Ice: Strong | Fire: Strong | Lighting: Strong | Holy: Strong | Darkness: Strong 
+Cellion (5120001) - [F2I3] Fire: Strong | Ice: Weak 
+Lioner (5120002) - [L2I3] Lighting: Strong | Ice: Weak 
+Grupin (5120003) - [I2F3] Ice: Strong | Fire: Weak 
+Reindeer (5120505) - [S3] Poison: Weak 
+Dark Stone Golem (5130102) - [H3D2] Holy: Weak | Darkness: Strong 
+Dark Jr. Yeti (5130105) - [H3D2] Holy: Weak | Darkness: Strong 
+Transforming Dark Jr. Yeti (5130106) - [H3D2] Holy: Weak | Darkness: Strong 
+Coolie Zombie (5130107) - [S1H3D2] Poison: Immune | Holy: Weak | Darkness: Strong 
+Miner Zombie (5130108) - [S1H3D2] Poison: Immune | Holy: Weak | Darkness: Strong 
+White Fang (5140000) - [I2F3] Ice: Strong | Fire: Weak 
+Skeleton Soldier (5150001) - [H3D2] Holy: Weak | Darkness: Strong 
+Ice Sentinel (5200001) - [I2F3] Ice: Strong | Fire: Weak 
+Fire Sentinel (5200002) - [F2I3] Fire: Strong | Ice: Weak 
+Leatty (5300000) - [I2F3] Ice: Strong | Fire: Weak 
+Dark Leatty (5300001) - [H3D2] Holy: Weak | Darkness: Strong 
+Malady (5300100) - [H3D2] Holy: Weak | Darkness: Strong 
+Jr. Pepe (5400000) - [I2F3] Ice: Strong | Fire: Weak 
+Red Drake (6130100) - [F2I3] Fire: Strong | Ice: Weak 
+Separated Pepe (6130102) - [I2F3] Ice: Strong | Fire: Weak 
+Pepe (6130103) - [I2F3] Ice: Strong | Fire: Weak 
+Boogie (6130104) - [H2D3] Holy: Strong | Darkness: Weak 
+Blin (6130201) - [H3I3D2] Holy: Weak | Ice: Weak | Darkness: Strong 
+Morphed Blin (6130202) - [F2I2H3D2] Fire: Strong | Ice: Strong | Holy: Weak | Darkness: Strong 
+Dark Pepe (6230200) - [H3D2] Holy: Weak | Darkness: Strong 
+Separated Dark Pepe (6230201) - [H3D2] Holy: Weak | Darkness: Strong 
+Soul Teddy (6230400) - [L2I2H3D2] Lighting: Strong | Ice: Strong | Holy: Weak | Darkness: Strong 
+Jr. Lucida  (6230401) - [S1H3D2] Poison: Immune | Holy: Weak | Darkness: Strong 
+Master Soul Teddy (6230500) - [L2I1H3D2] Lighting: Strong | Ice: Immune | Holy: Weak | Darkness: Strong 
+Ice Drake (6230600) - [I2F3] Ice: Strong | Fire: Weak 
+Officer Skeleton (6230602) - [H3D2] Holy: Weak | Darkness: Strong 
+Yeti (6300000) - [I2F3] Ice: Strong | Fire: Weak 
+Transformed Yeti (6300001) - [I2F3] Ice: Strong | Fire: Weak 
+Separated Yeti (6300002) - [I2F3] Ice: Strong | Fire: Weak 
+Punco (6300003) - [H2D3] Holy: Strong | Darkness: Weak 
+Pachu (6300004) - [F1H2L2S2I1D2] Fire: Immune | Holy: Strong | Lighting: Strong | Poison: Strong | Ice: Immune | Darkness: Strong 
+Buffoon (6300100) - [I3F2] Ice: Weak | Fire: Strong 
+Dark Yeti (6400000) - [H3D2] Holy: Weak | Darkness: Strong 
+Transformed Dark Yeti (6400001) - [H3D2] Holy: Weak | Darkness: Strong 
+Separated Dark Yeti (6400002) - [H3D2] Holy: Weak | Darkness: Strong 
+Cuzco (6400003) - [H2D3] Holy: Strong | Darkness: Weak 
+Opachu (6400004) - [L2H2S2I1F3D2] Lighting: Strong | Holy: Strong | Poison: Strong | Ice: Immune | Fire: Weak | Darkness: Strong 
+주니어 발록 (6400005) - [S1H3D2] Poison: Immune | Holy: Weak | Darkness: Strong 
+Crimson Balrog (6400006) - [S1H3D2] Poison: Immune | Holy: Weak | Darkness: Strong 
+Baby Balrog (6400007) - [S1H3D2] Poison: Immune | Holy: Weak | Darkness: Strong 
+Jr. Balrog (6400008) - [S1H3D2] Poison: Immune | Holy: Weak | Darkness: Strong 
+Crimson Balrog (6400009) - [S1H3D2] Poison: Immune | Holy: Weak | Darkness: Strong 
+Deep Buffoon (6400100) - [I3F2] Ice: Weak | Fire: Strong 
+Iruvata (7120109) - [S1] Poison: Immune 
+Lucida (7130000) - [S1H3D2] Poison: Immune | Holy: Weak | Darkness: Strong 
+Beetle (7130002) - [L2] Lighting: Strong 
+Dual Beetle (7130003) - [L2] Lighting: Strong 
+Hankie (7130004) - [F3S3] Fire: Weak | Poison: Weak 
+Death Teddy (7130010) - [H3F3D2] Holy: Weak | Fire: Weak | Darkness: Strong 
+Goby (7130020) - [F2] Fire: Strong 
+Tauromacis (7130100) - [S1] Poison: Immune 
+Taurospear (7130101) - [S1F2L2] Poison: Immune | Fire: Strong | Lighting: Strong 
+Yeti and Pepe (7130102) - [I2F3] Ice: Strong | Fire: Weak 
+Commander Skeleton (7130103) - [H3I2S1D2] Holy: Weak | Ice: Strong | Poison: Immune | Darkness: Strong 
+Master Death Teddy (7130300) - [H3I2L2D2] Holy: Weak | Ice: Strong | Lighting: Strong | Darkness: Strong 
+Yellow King Goblin (7130400) - [F2I3] Fire: Strong | Ice: Weak 
+Blue King Goblin (7130401) - [F3I2] Fire: Weak | Ice: Strong 
+Green King Goblin (7130402) - [S1] Poison: Immune 
+Rash (7130500) - [S3] Poison: Weak 
+Dark Rash (7130501) - [S2] Poison: Strong 
+Hobi (7130600) - [S3] Poison: Weak 
+Green Hobi (7130601) - [S2] Poison: Strong 
+Thorny Vine (7130602) - [S2F3] Poison: Strong | Fire: Weak 
+Ghost Pirate (7140000) - [I2F3] Ice: Strong | Fire: Weak 
+Dual Ghost Pirate (7160000) - [I2F3] Ice: Strong | Fire: Weak 
+Bergamot (7220003) - [F2L3I3S1] Fire: Strong | Lighting: Weak | Ice: Weak | Poison: Immune 
+Bergamot (7220004) - [F2L3I3S1] Fire: Strong | Lighting: Weak | Ice: Weak | Poison: Immune 
+Bergamot (7220005) - [F2L3I3S1] Fire: Strong | Lighting: Weak | Ice: Weak | Poison: Immune 
+Afterlord (8120102) - [I2S1H2D3] Ice: Strong | Poison: Immune | Holy: Strong | Darkness: Weak 
+Prototype Lord (8120103) - [S1H2D3] Poison: Immune | Holy: Strong | Darkness: Weak 
+Jr. Balrog (8130100) - [S1H3D2] Poison: Immune | Holy: Weak | Darkness: Strong 
+Lycanthrope (8140000) - [I2F3] Ice: Strong | Fire: Weak 
+Harp (8140001) - [S3] Poison: Weak 
+Blood Harp (8140002) - [F2I3] Fire: Strong | Ice: Weak 
+Dark Yeti and Pepe (8140100) - [H3D2] Holy: Weak | Darkness: Strong 
+Black Kentaurus (8140101) - [H3D2] Holy: Weak | Darkness: Strong 
+Red Kentaurus (8140102) - [F2I3] Fire: Strong | Ice: Weak 
+Blue Kentaurus (8140103) - [I2F3] Ice: Strong | Fire: Weak 
+Birk (8140110) - [H2I3D3] Holy: Strong | Ice: Weak | Darkness: Weak 
+Dual Birk (8140111) - [H2S2D3] Holy: Strong | Poison: Strong | Darkness: Weak 
+Klock (8140200) - [H3F3D2] Holy: Weak | Fire: Weak | Darkness: Strong 
+Dark Klock (8140300) - [H3D2] Holy: Weak | Darkness: Strong 
+Bain (8140500) - [F2I3] Fire: Strong | Ice: Weak 
+Imperial Guard (8140511) - [S2H2D3] Poison: Strong | Holy: Strong | Darkness: Weak 
+Royal Guard (8140512) - [S2] Poison: Strong 
+Bombing Fish House  (8140555) - [F2I2L2S2] Fire: Strong | Ice: Strong | Lighting: Strong | Poison: Strong 
+Bone Fish (8140600) - [F2H3D2] Fire: Strong | Holy: Weak | Darkness: Strong 
+Blue Dragon Turtle (8140700) - [F3I2] Fire: Weak | Ice: Strong 
+Red Dragon Turtle (8140701) - [F2I3] Fire: Strong | Ice: Weak 
+Rexton (8140702) - [L3S3] Lighting: Weak | Poison: Weak 
+Brexton (8140703) - [F2I3] Fire: Strong | Ice: Weak 
+Spirit Viking (8141000) - [F2L3] Fire: Strong | Lighting: Weak 
+Gigantic Spirit Viking (8141100) - [F2L3] Fire: Strong | Lighting: Weak 
+Squid (8141300) - [S2F2] Poison: Strong | Fire: Strong 
+Phantom Watch (8142000) - [H3I2F3D2] Holy: Weak | Ice: Strong | Fire: Weak | Darkness: Strong 
+Risell Squid (8142100) - [F2L2] Fire: Strong | Lighting: Strong 
+Grim Phantom Watch (8143000) - [H3F3I1D2] Holy: Weak | Fire: Weak | Ice: Immune | Darkness: Strong 
+Crimson Balrog (8150000) - [S1H3D2] Poison: Immune | Holy: Weak | Darkness: Strong 
+Shark (8150100) - [F2] Fire: Strong 
+Cold Shark (8150101) - [F2I2] Fire: Strong | Ice: Strong 
+Green Cornian (8150200) - [S2] Poison: Strong 
+Dark Cornian (8150201) - [S2] Poison: Strong 
+Red Wyvern (8150300) - [F2I3] Fire: Strong | Ice: Weak 
+Blue Wyvern (8150301) - [F3I2] Fire: Weak | Ice: Strong 
+Gatekeeper (8160000) - [L2] Lighting: Strong 
+Thanatos (8170000) - [H3I2D2] Holy: Weak | Ice: Strong | Darkness: Strong 
+Manon (8180000) - [F2I3] Fire: Strong | Ice: Weak 
+Griffey (8180001) - [L2S3] Lighting: Strong | Poison: Weak 
+Skelegon (8190003) - [H3D2] Holy: Weak | Darkness: Strong 
+Skelosaurus (8190004) - [H3D2] Holy: Weak | Darkness: Strong 
+Memory Monk (8200001) - [S2L2] Poison: Strong | Lighting: Strong 
+Memory Monk Trainee (8200002) - [S2L2] Poison: Strong | Lighting: Strong 
+Memory Guardian (8200003) - [S2L2] Poison: Strong | Lighting: Strong 
+Chief Memory Guardian (8200004) - [S2L2] Poison: Strong | Lighting: Strong 
+Qualm Monk (8200005) - [F3L3] Fire: Weak | Lighting: Weak 
+Qualm Monk Trainee (8200006) - [F3L3] Fire: Weak | Lighting: Weak 
+Qualm Guardian (8200007) - [F3L3S3] Fire: Weak | Lighting: Weak | Poison: Weak 
+Chief Qualm Guardian (8200008) - [F3L3S3] Fire: Weak | Lighting: Weak | Poison: Weak 
+Oblivion Monk (8200009) - [S3I3L3] Poison: Weak | Ice: Weak | Lighting: Weak 
+Oblivion Monk Trainee (8200010) - [S3I3L3] Poison: Weak | Ice: Weak | Lighting: Weak 
+Oblivion Guardian (8200011) - [S3I3L3] Poison: Weak | Ice: Weak | Lighting: Weak 
+Chief Oblivion Guardian (8200012) - [S3I3L3] Poison: Weak | Ice: Weak | Lighting: Weak 
+Leviathan (8220003) - [F2I2] Fire: Strong | Ice: Strong 
+Dodo (8220004) - [F2I2L2S2] Fire: Strong | Ice: Strong | Lighting: Strong | Poison: Strong 
+Lilynouch (8220005) - [I2L3] Ice: Strong | Lighting: Weak 
+Lyka (8220006) - [F2S3] Fire: Strong | Poison: Weak 
+Blue Mushmom (8220007) - [F3] Fire: Weak 
+Dunas (8220010) - [S1] Poison: Immune 
+Aufheben (8220011) - [I3S3] Ice: Weak | Poison: Weak 
+Oberon (8220012) - [F2S2] Fire: Strong | Poison: Strong 
+Nibelung (8220013) - [F2L3I3S1] Fire: Strong | Lighting: Weak | Ice: Weak | Poison: Immune 
+Nibelung (8220014) - [F2L3I3S1] Fire: Strong | Lighting: Weak | Ice: Weak | Poison: Immune 
+Nibelung (8220015) - [F2L3I3S1] Fire: Strong | Lighting: Weak | Ice: Weak | Poison: Immune 
+Corrupted Cornian (8220017) - [S2] Poison: Strong 
+Corrupted Skelegon (8220018) - [H3D2] Holy: Weak | Darkness: Strong 
+Corrupted Kentaurus (8220019) - [H3D2] Holy: Weak | Darkness: Strong 
+Corrupted Chief Memory Guardian (8220020) - [S3I3L3] Poison: Weak | Ice: Weak | Lighting: Weak 
+Corrupted Time Monk Trainee (8220021) - [S3I3L3] Poison: Weak | Ice: Weak | Lighting: Weak 
+High Darkstar (8500003) - [F2I3] Fire: Strong | Ice: Weak 
+Low Darkstar (8500004) - [F2I3] Fire: Strong | Ice: Weak 
+Pianus (8510000) - [F3] Fire: Weak 
+Bloody Boom (8510100) - [F1L1] Fire: Immune | Lighting: Immune 
+Pianus (8520000) - [F3] Fire: Weak 
+Mutant Orange Mushroom (8600001) - [F3L3S3] Fire: Weak | Lighting: Weak | Poison: Weak 
+Mutant Tiru (8600005) - [F3L3] Fire: Weak | Lighting: Weak 
+Mutant Tiguru (8600006) - [F3L3] Fire: Weak | Lighting: Weak 
+Zakum's Arm 3 (8800005) - [F2I3S1] Fire: Strong | Ice: Weak | Poison: Immune 
+Zakum's Arm 4 (8800006) - [I2L2F3] Ice: Strong | Lighting: Strong | Fire: Weak 
+Chaos Zakum's Arm 3 (8800016) - [F2I3S1] Fire: Strong | Ice: Weak | Poison: Immune 
+Chaos Zakum's Arm 4 (8800017) - [I2L2F3] Ice: Strong | Lighting: Strong | Fire: Weak 
+Red Wyvern (8810019) - [F2I3] Fire: Strong | Ice: Weak 
+Blue Wyvern (8810020) - [F3I2] Fire: Weak | Ice: Strong 
+Green Cornian (8810022) - [S2] Poison: Strong 
+Dark Cornian (8810023) - [S2] Poison: Strong 
+Pink Bean (8820001) - [P2H2F2I2D2] Neutral: Strong | Holy: Strong | Fire: Strong | Ice: Strong | Darkness: Strong 
+Ariel (8820002) - [H1F2L2I2D2] Holy: Immune | Fire: Strong | Lighting: Strong | Ice: Strong | Darkness: Strong 
+Hugin (8820005) - [F2I3] Fire: Strong | Ice: Weak 
+Munin (8820006) - [I2F3] Ice: Strong | Fire: Weak 
+Mini Bean (8820007) - [S2I3F3] Poison: Strong | Ice: Weak | Fire: Weak 
+Hugin (8820017) - [F2I3] Fire: Strong | Ice: Weak 
+Munin (8820018) - [I2F3] Ice: Strong | Fire: Weak 
+Mihile (8850000) - [L3] Lighting: Weak 
+Oz (8850001) - [I3] Ice: Weak 
+Irena (8850002) - [F3] Fire: Weak 
+Eckhart (8850003) - [H3] Holy: Weak 
+Hawkeye (8850004) - [S3] Poison: Weak 
+Mihile (8850005) - [L3] Lighting: Weak 
+Oz (8850006) - [I3] Ice: Weak 
+Irena (8850007) - [F3] Fire: Weak 
+Eckhart (8850008) - [H3] Holy: Weak 
+Hawkeye (8850009) - [S3] Poison: Weak 
+Curse Eye 2 (9000001) - [S2] Poison: Strong 
+Fire Boar 2 (9000100) - [F2I3] Fire: Strong | Ice: Weak 
+Zombie Mushroom 2 (9000201) - [H3D2] Holy: Weak | Darkness: Strong 
+Cold Eye 2 (9000300) - [I2F3] Ice: Strong | Fire: Weak 
+Super Trickster (9100005) - [H2F3D3] Holy: Strong | Fire: Weak | Darkness: Weak 
+Super Green Trickster (9100006) - [H2F3D3] Holy: Strong | Fire: Weak | Darkness: Weak 
+Fire Boar (PC) (9200001) - [F2I3] Fire: Strong | Ice: Weak 
+Dark Stump (PC) (9200002) - [F3] Fire: Weak 
+Green Mushroom (PC) (9200004) - [S1] Poison: Immune 
+Slime (PC) (9200005) - [L3] Lighting: Weak 
+Zombie Lupin (PC) (9200007) - [H3D2] Holy: Weak | Darkness: Strong 
+Zombie Mushroom (PC) (9200010) - [H3D2] Holy: Weak | Darkness: Strong 
+Cold Eye (PC) (9200013) - [I2F3] Ice: Strong | Fire: Weak 
+Jr. Yetti (9200018) - [I2F3] Ice: Strong | Fire: Weak 
+White Fang (9200019) - [I2F3] Ice: Strong | Fire: Weak 
+Yetti & Pepe (9200020) - [I2F3] Ice: Strong | Fire: Weak 
+Separated Yetti (9200021) - [I2F3] Ice: Strong | Fire: Weak 
+Separated Pepe (9200022) - [I2F3] Ice: Strong | Fire: Weak 
+Ligator (PC) (9300001) - [I2F3] Ice: Strong | Fire: Weak 
+Curse Eye (PC) (9300002) - [S2] Poison: Strong 
+King Slime (9300003) - [I2F2L2H2D2] Ice: Strong | Fire: Strong | Lighting: Strong | Holy: Strong | Darkness: Strong 
+Block Golem from Another Dimension (9300009) - [L2I2F3] Lighting: Strong | Ice: Strong | Fire: Weak 
+Alishar (9300012) - [I2F2L2H2S2D2] Ice: Strong | Fire: Strong | Lighting: Strong | Holy: Strong | Poison: Strong | Darkness: Strong 
+Dark Eye from Another Dimension (9300014) - [I2L2F2H2D2] Ice: Strong | Lighting: Strong | Fire: Strong | Holy: Strong | Darkness: Strong 
+Master Muscle Stone (9300019) - [I2F2L2S2] Ice: Strong | Fire: Strong | Lighting: Strong | Poison: Strong 
+Muscle Stone (9300020) - [I2F2L2S2] Ice: Strong | Fire: Strong | Lighting: Strong | Poison: Strong 
+Dark Muscle Stone (9300021) - [I2F2L2H2S2D2] Ice: Strong | Fire: Strong | Lighting: Strong | Holy: Strong | Poison: Strong | Darkness: Strong 
+Black Knight (9300022) - [H3S2D2] Holy: Weak | Poison: Strong | Darkness: Strong 
+Myst Knight (9300023) - [H3S2D2] Holy: Weak | Poison: Strong | Darkness: Strong 
+Puppet Golem (9300024) - [I2F2L2S2H2D2] Ice: Strong | Fire: Strong | Lighting: Strong | Poison: Strong | Holy: Strong | Darkness: Strong 
+Gargoyle (9300025) - [I2F2L2S2H2D2] Ice: Strong | Fire: Strong | Lighting: Strong | Poison: Strong | Holy: Strong | Darkness: Strong 
+Ergoth (9300028) - [I2F2L2H2S2D2] Ice: Strong | Fire: Strong | Lighting: Strong | Holy: Strong | Poison: Strong | Darkness: Strong 
+Lion Statue A (9300029) - [I2F2L2H2S2D2] Ice: Strong | Fire: Strong | Lighting: Strong | Holy: Strong | Poison: Strong | Darkness: Strong 
+Lion Statue B (9300030) - [I2F2L2H2S2] Ice: Strong | Fire: Strong | Lighting: Strong | Holy: Strong | Poison: Strong 
+Knight Statue A (9300031) - [I2F2L2H2S2D2] Ice: Strong | Fire: Strong | Lighting: Strong | Holy: Strong | Poison: Strong | Darkness: Strong 
+Knight Statue B (9300032) - [I2F2L2H2S2D2] Ice: Strong | Fire: Strong | Lighting: Strong | Holy: Strong | Poison: Strong | Darkness: Strong 
+Mist Knight (9300034) - [H3S2D2] Holy: Weak | Poison: Strong | Darkness: Strong 
+Black Knight (9300036) - [H3S2D2] Holy: Weak | Poison: Strong | Darkness: Strong 
+Mist Knight (9300037) - [H3S2D2] Holy: Weak | Poison: Strong | Darkness: Strong 
+Ghost Pixie (9300038) - [H2D3] Holy: Strong | Darkness: Weak 
+Papa Pixie (9300039) - [I2F2L2H2S2D2] Ice: Strong | Fire: Strong | Lighting: Strong | Holy: Strong | Poison: Strong | Darkness: Strong 
+Cellion in Tower of Goddess (9300040) - [F2I3] Fire: Strong | Ice: Weak 
+Cellion in Tower of Goddess (9300041) - [F2I3] Fire: Strong | Ice: Weak 
+Grupin in Tower of Goddess (9300042) - [I2F3] Ice: Strong | Fire: Weak 
+Lioner in Tower of Goddess (9300043) - [L2I3] Lighting: Strong | Ice: Weak 
+Lucida in Tower of Goddess (9300044) - [S1H3D2] Poison: Immune | Holy: Weak | Darkness: Strong 
+Star Pixie in Tower of Goddess (9300046) - [H2D3] Holy: Strong | Darkness: Weak 
+Luster Pixie in Tower of Goddess (9300047) - [I2F2L2H2D2] Ice: Strong | Fire: Strong | Lighting: Strong | Holy: Strong | Darkness: Strong 
+Nependeath in Tower of Goddess (9300048) - [F3] Fire: Weak 
+Royal Nependeath in Tower of Goddess (9300049) - [F3] Fire: Weak 
+Jr. Cellion in Tower of Goddess (9300051) - [F2I3] Fire: Strong | Ice: Weak 
+Jr. Lioner in Tower of Goddess (9300052) - [L2I3] Lighting: Strong | Ice: Weak 
+Jr. Grupin in Tower of Goddess (9300053) - [I2F3] Ice: Strong | Fire: Weak 
+Star Pixie in Tower of Goddess(Summon Boss) (9300055) - [H2D3] Holy: Strong | Darkness: Weak 
+Luster Pixie in Tower of Goddess(Summon Boss) (9300056) - [I2F2L2H2D2] Ice: Strong | Fire: Strong | Lighting: Strong | Holy: Strong | Darkness: Strong 
+Cellion in Tower of Goddess (9300057) - [F2I3] Fire: Strong | Ice: Weak 
+Green Cornian1 in Cave (9300065) - [S2] Poison: Strong 
+Green Cornian 2 in Cave (9300066) - [S2] Poison: Strong 
+Dark Cornian 1 in Cave (9300067) - [S2] Poison: Strong 
+Dark Cornian 2 in Cave (9300068) - [S2] Poison: Strong 
+Red Wyvern 1 in Cave (9300069) - [F2I3] Fire: Strong | Ice: Weak 
+Red Wyvern 2 in Cave (9300070) - [F2I3] Fire: Strong | Ice: Weak 
+Blue Wyvern 1 in Cave (9300071) - [F3I2] Fire: Weak | Ice: Strong 
+Blue Wyvern 2 in Cave (9300072) - [F3I2] Fire: Weak | Ice: Strong 
+Skelegon 1 in Cave (9300075) - [H3D2] Holy: Weak | Darkness: Strong 
+Skelegon 2 in Cave (9300076) - [H3D2] Holy: Weak | Darkness: Strong 
+T-Skelegon in Cave (9300077) - [H3D2] Holy: Weak | Darkness: Strong 
+Deathly Fear (9300084) - [I2L2F2H2D2] Ice: Strong | Lighting: Strong | Fire: Strong | Holy: Strong | Darkness: Strong 
+Jr. Balrog in Another World (9300085) - [S1H3D2] Poison: Immune | Holy: Weak | Darkness: Strong 
+The Elemental Thanatos (9300086) - [F3I1L1S1H1P1D1] Fire: Weak | Ice: Immune | Lighting: Immune | Poison: Immune | Holy: Immune | Neutral: Immune | Darkness: Immune 
+The Charging Taurospear (9300087) - [S1F2L2] Poison: Immune | Fire: Strong | Lighting: Strong 
+Phoenix (9300089) - [F2I3] Fire: Strong | Ice: Weak 
+Freezer (9300090) - [F3I2] Fire: Weak | Ice: Strong 
+Buff Rocky in the Dark (9300091) - [I2F2L2H2S2D2] Ice: Strong | Fire: Strong | Lighting: Strong | Holy: Strong | Poison: Strong | Darkness: Strong 
+Jr. Balrog in Forgotten Shrine (9300092) - [S1H3D2] Poison: Immune | Holy: Weak | Darkness: Strong 
+Crimson Balrog the Kidnapper (9300094) - [S1H3D2] Poison: Immune | Holy: Weak | Darkness: Strong 
+Lycanthrope the Kidnapper (9300095) - [I2F3] Ice: Strong | Fire: Weak 
+Goby in Warped Dimension (9300097) - [F2] Fire: Strong 
+Bone Fish in Warped Dimension (9300098) - [F2H3D2] Fire: Strong | Holy: Weak | Darkness: Strong 
+Shark in Warped Dimension (9300099) - [F2] Fire: Strong 
+The Elemental Thanatos (9300100) - [I3F1L1S1H1P1D1] Ice: Weak | Fire: Immune | Lighting: Immune | Poison: Immune | Holy: Immune | Neutral: Immune | Darkness: Immune 
+Angry Lord Pirate (9300105) - [I2F2L2H2S2D2] Ice: Strong | Fire: Strong | Lighting: Strong | Holy: Strong | Poison: Strong | Darkness: Strong 
+Enraged Lord Pirate (9300106) - [I2F2L2H2S2D2] Ice: Strong | Fire: Strong | Lighting: Strong | Holy: Strong | Poison: Strong | Darkness: Strong 
+Peeking Lord Pirate (9300107) - [I2F2L2H2S2D2] Ice: Strong | Fire: Strong | Lighting: Strong | Holy: Strong | Poison: Strong | Darkness: Strong 
+Lord Pirate's Enraged Mr. Alli (9300114) - [L2] Lighting: Strong 
+Lord Pirate's Enraged Kru (9300115) - [L2] Lighting: Strong 
+Lord Pirate's Enraged Captain (9300116) - [L2] Lighting: Strong 
+Lord Pirate (9300119) - [I2F2L2H2S2D2] Ice: Strong | Fire: Strong | Lighting: Strong | Holy: Strong | Poison: Strong | Darkness: Strong 
+Brown Teddy (9300127) - [L2] Lighting: Strong 
+Bloctopus  (9300128) - [L2] Lighting: Strong 
+Ratz (9300129) - [L2] Lighting: Strong 
+Chronos  (9300130) - [L2] Lighting: Strong 
+Toy Trojan (9300131) - [L2] Lighting: Strong 
+Tick-Tock (9300132) - [L2] Lighting: Strong 
+Robo (9300133) - [I2F2L2] Ice: Strong | Fire: Strong | Lighting: Strong 
+King Bloctopus (9300134) - [L2] Lighting: Strong 
+Master Chronos  (9300135) - [L2] Lighting: Strong 
+Rombot (9300136) - [L2] Lighting: Strong 
+Angry Frankenroid (9300140) - [L2S2] Lighting: Strong | Poison: Strong 
+Angry Frankenroid (9300152) - [L2S2] Lighting: Strong | Poison: Strong 
+Scorpion (9300157) - [L2] Lighting: Strong 
+King Slime (9300187) - [I2F2L2H2D2] Ice: Strong | Fire: Strong | Lighting: Strong | Holy: Strong | Darkness: Strong 
+Alishar (9300192) - [I2F2L2H2S2D2] Ice: Strong | Fire: Strong | Lighting: Strong | Holy: Strong | Poison: Strong | Darkness: Strong 
+Papa Pixie (9300195) - [I2F2L2H2S2D2] Ice: Strong | Fire: Strong | Lighting: Strong | Holy: Strong | Poison: Strong | Darkness: Strong 
+Lord Pirate (9300198) - [I2F2L2H2S2D2] Ice: Strong | Fire: Strong | Lighting: Strong | Holy: Strong | Poison: Strong | Darkness: Strong 
+Jr. Balrog (9300203) - [S1H3D2] Poison: Immune | Holy: Weak | Darkness: Strong 
+Blue Mushmom (9300209) - [F3] Fire: Weak 
+Crimson Balrog (9300210) - [S1H3D2] Poison: Immune | Holy: Weak | Darkness: Strong 
+Manon (9300211) - [F2I3] Fire: Strong | Ice: Weak 
+Griffey (9300212) - [L2S3] Lighting: Strong | Poison: Weak 
+Leviathan (9300213) - [F2I2] Fire: Strong | Ice: Strong 
+Stump (9300219) - [F3] Fire: Weak 
+Cactus (9300221) - [F3] Fire: Weak 
+Royal Cactus (9300222) - [F3] Fire: Weak 
+Slime (9300223) - [L3] Lighting: Weak 
+Zombie Lupin (9300226) - [H3D2] Holy: Weak | Darkness: Strong 
+Lorang (9300227) - [L3] Lighting: Weak 
+Clang (9300228) - [L3] Lighting: Weak 
+Ligator (9300234) - [I2F3] Ice: Strong | Fire: Weak 
+Luster Pixie (9300236) - [I2F2L2H2D2] Ice: Strong | Fire: Strong | Lighting: Strong | Holy: Strong | Darkness: Strong 
+Ghost Pixie (9300237) - [H2D3] Holy: Strong | Darkness: Weak 
+Zombie Mushroom (9300238) - [H3D2] Holy: Weak | Darkness: Strong 
+Ultra Gray (9300240) - [L2] Lighting: Strong 
+Samiho (9300243) - [F3H3] Fire: Weak | Holy: Weak 
+Tauromacis (9300249) - [S1] Poison: Immune 
+Taurospear (9300250) - [S1F2L2] Poison: Immune | Fire: Strong | Lighting: Strong 
+Lucida (9300251) - [S1H3] Poison: Immune | Holy: Weak 
+Yeti (9300258) - [I2F3] Ice: Strong | Fire: Weak 
+Jr. Balrog (9300260) - [S1H3] Poison: Immune | Holy: Weak 
+Black Kentaurus (9300261) - [H3] Holy: Weak 
+Red Kentaurus (9300262) - [F2I3] Fire: Strong | Ice: Weak 
+Blue Kentaurus (9300263) - [I2F3] Ice: Strong | Fire: Weak 
+Blue Wyvern (9300265) - [F3I2] Fire: Weak | Ice: Strong 
+High Darkstar (9300266) - [F2I3] Fire: Strong | Ice: Weak 
+Low Darkstar (9300267) - [F2I3] Fire: Strong | Ice: Weak 
+Target Slime (9300271) - [L3] Lighting: Weak 
+Yellow Snail of the Maze (9300275) - [H2] Holy: Strong 
+Transforming Green Snail of the Maze (9300281) - [S2] Poison: Strong 
+Blue Transforming Snail of the Maze (9300282) - [H2] Holy: Strong 
+Crimson Balrog of Competence  (9300288) - [S1H3D2] Poison: Immune | Holy: Weak | Darkness: Strong 
+Snipe of Competence  (9300289) - [F2I2L2S2] Fire: Strong | Ice: Strong | Lighting: Strong | Poison: Strong 
+Lilynouch of Competence (9300290) - [I2L3] Ice: Strong | Lighting: Weak 
+Advanced Manon (9300291) - [F2I3] Fire: Strong | Ice: Weak 
+Advanced Griffey (9300292) - [L2S3] Lighting: Strong | Poison: Weak 
+Advanced Leviathan (9300293) - [F2I2] Fire: Strong | Ice: Strong 
+Advanced Pianus (9300294) - [F3] Fire: Weak 
+Purple Ribbon Pig of the Maze (9300301) - [S3I3L3] Poison: Weak | Ice: Weak | Lighting: Weak 
+Pig of the Maze (9300302) - [S3I3L3] Poison: Weak | Ice: Weak | Lighting: Weak 
+Soul Teddy (9300316) - [L2I2H3D2] Lighting: Strong | Ice: Strong | Holy: Weak | Darkness: Strong 
+Master Soul Teddy (9300318) - [L2I1H3D2] Lighting: Strong | Ice: Immune | Holy: Weak | Darkness: Strong 
+Klock (9300319) - [H3F3D2] Holy: Weak | Fire: Weak | Darkness: Strong 
+Buffoon (9300320) - [I3F2] Ice: Weak | Fire: Strong 
+Deep Buffoon (9300321) - [I3F2] Ice: Weak | Fire: Strong 
+Ghost Pirate (9300322) - [I2F3] Ice: Strong | Fire: Weak 
+Death Teddy  (9300323) - [H3F3D2] Holy: Weak | Fire: Weak | Darkness: Strong 
+Viking (9300324) - [F2L3] Fire: Strong | Lighting: Weak 
+Unknown Jr. Balrog (9300326) - [S1H3D2] Poison: Immune | Holy: Weak | Darkness: Strong 
+Balrog Corpse (9300327) - [S1H3D2] Poison: Immune | Holy: Weak | Darkness: Strong 
+Chief Gray (9300334) - [I2L2F2H2D2] Ice: Strong | Lighting: Strong | Fire: Strong | Holy: Strong | Darkness: Strong 
+Target Slime (9300341) - [L3] Lighting: Weak 
+Giant Nependeath (9300347) - [F3] Fire: Weak 
+Black Mage Cornian (9300380) - [S2] Poison: Strong 
+Black Mage Skelegon (9300381) - [H3D2] Holy: Weak | Darkness: Strong 
+Crow (9400000) - [L3] Lighting: Weak 
+Fire Raccoon (9400001) - [I3] Ice: Weak 
+Cloud Fox (9400002) - [F3] Fire: Weak 
+Nightghost (9400003) - [H3F3I3D2] Holy: Weak | Fire: Weak | Ice: Weak | Darkness: Strong 
+Big Cloud Fox (9400004) - [L3] Lighting: Weak 
+Red Boogie (9400005) - [F3S2] Fire: Weak | Poison: Strong 
+Blue Boogie (9400006) - [L3I2] Lighting: Weak | Ice: Strong 
+Green Boogie (9400007) - [S3F2] Poison: Weak | Fire: Strong 
+Black Boogie (9400008) - [I3L2] Ice: Weak | Lighting: Strong 
+Paper Lantern Ghost (9400011) - [F2I3] Fire: Strong | Ice: Weak 
+Water Goblin (9400012) - [I2F3] Ice: Strong | Fire: Weak 
+Dreamy Ghost (9400013) - [S1H3D2] Poison: Immune | Holy: Weak | Darkness: Strong 
+Black Crow (9400014) - [L3] Lighting: Weak 
+Extra A (9400100) - [S3F3] Poison: Weak | Fire: Weak 
+Extra B (9400101) - [S3F3] Poison: Weak | Fire: Weak 
+Extra C (9400102) - [S3F3] Poison: Weak | Fire: Weak 
+Extra D (9400103) - [F3H3I3] Fire: Weak | Holy: Weak | Ice: Weak 
+Leader A (9400110) - [S3F3] Poison: Weak | Fire: Weak 
+Leader B (9400111) - [S3F3] Poison: Weak | Fire: Weak 
+Bodyguard A (9400112) - [F3S1] Fire: Weak | Poison: Immune 
+Bodyguard B (9400113) - [I3] Ice: Weak 
+Male Boss (9400120) - [F3L3] Fire: Weak | Lighting: Weak 
+Female Boss (9400121) - [L3H3] Lighting: Weak | Holy: Weak 
+Male Boss (9400122) - [F3L3] Fire: Weak | Lighting: Weak 
+Malady (9400200) - [H3] Holy: Weak 
+Red Slime (9400204) - [I3] Ice: Weak 
+Blue Mushmom (9400205) - [F3] Fire: Weak 
+Miner Zombie (JP) (9400209) - [S1H3] Poison: Immune | Holy: Weak 
+Coolie Zombie (JP) (9400210) - [S1H3] Poison: Immune | Holy: Weak 
+Dark Stone Golem (JP) (9400211) - [H3] Holy: Weak 
+Dark Jr. Yeti (JP) (9400213) - [H3] Holy: Weak 
+Ultra Gray (JP) (9400215) - [L2] Lighting: Strong 
+Tauromacis (JP) (9400218) - [S1] Poison: Immune 
+Zombie Mushroom (9400245) - [H3] Holy: Weak 
+The Boss (9400300) - [F3] Fire: Weak 
+Genin (9400400) - [S3F3] Poison: Weak | Fire: Weak 
+Chunin (9400401) - [L3F3] Lighting: Weak | Fire: Weak 
+Jonin (9400402) - [H3S1] Holy: Weak | Poison: Immune 
+Ninto (9400403) - [H3L2S1F2] Holy: Weak | Lighting: Strong | Poison: Immune | Fire: Strong 
+Ashigaru (9400404) - [I3S3] Ice: Weak | Poison: Weak 
+Kacchuu Musha (9400405) - [F2L3H3I3S1] Fire: Strong | Lighting: Weak | Holy: Weak | Ice: Weak | Poison: Immune 
+Kunoichi (9400406) - [F3H3] Fire: Weak | Holy: Weak 
+Toad (9400407) - [L3F2] Lighting: Weak | Fire: Strong 
+Castellan (9400408) - [S3] Poison: Weak 
+Castellan Toad (9400409) - [S1] Poison: Immune 
+Malady (9400500) - [H3] Holy: Weak 
+Jr. Wraith (9400501) - [H3F3] Holy: Weak | Fire: Weak 
+Wraith (9400502) - [H3] Holy: Weak 
+Coolie Zombie (9400504) - [S1H3] Poison: Immune | Holy: Weak 
+Turkey (9400505) - [L3] Lighting: Weak 
+Candle Monster (9400506) - [F3] Fire: Weak 
+Sakura Cellion (9400509) - [F2I3] Fire: Strong | Ice: Weak 
+Cake Mob (2nd)  (9400512) - [I2S3] Ice: Strong | Poison: Weak 
+Candle Mob (2nd)  (9400513) - [F2I3] Fire: Strong | Ice: Weak 
+Geist Balrog Phase 3 (9400514) - [S1H1F1I1] Poison: Immune | Holy: Immune | Fire: Immune | Ice: Immune 
+Indigo Eye (9400515) - [S2] Poison: Strong 
+Crystal Boar (9400516) - [F3I2] Fire: Weak | Ice: Strong 
+Curse Eye GL (9400524) - [S2] Poison: Strong 
+Cold Eye GL (9400525) - [I2F3] Ice: Strong | Fire: Weak 
+Fire Boar GL (9400527) - [F2I3] Fire: Strong | Ice: Weak 
+Sentinel GL (9400528) - [H2L2I3] Holy: Strong | Lighting: Strong | Ice: Weak 
+Ice Sentinel GL (9400529) - [I2F3] Ice: Strong | Fire: Weak 
+Zombie Lupin GL (9400530) - [H3] Holy: Weak 
+Indigo Eye PQ (9400533) - [S2] Poison: Strong 
+Crystal Boar PQ (9400534) - [F3I2] Fire: Weak | Ice: Strong 
+Geist Balrog Phase 1 (9400536) - [S1H3] Poison: Immune | Holy: Weak 
+Geist Balrog Phase 2 (9400537) - [S1H3] Poison: Immune | Holy: Weak 
+Fire Tusk (9400542) - [S2F1I3] Poison: Strong | Fire: Immune | Ice: Weak 
+Electrophant (9400543) - [I1L2F3] Ice: Immune | Lighting: Strong | Fire: Weak 
+Boomer (9400547) - [F2I3] Fire: Strong | Ice: Weak 
+Mighty Maple Eater (9400548) - [H3] Holy: Weak 
+Headless Horseman (9400549) - [L3] Lighting: Weak 
+Boomer (9400550) - [F2I3] Fire: Strong | Ice: Weak 
+Typhon (9400574) - [I1S1] Ice: Immune | Poison: Immune 
+Bigfoot (9400575) - [F3I1H1] Fire: Weak | Ice: Immune | Holy: Immune 
+Windraider (9400576) - [S1] Poison: Immune 
+Firebrand (9400577) - [F2] Fire: Strong 
+Firebrand (9400578) - [F1I3] Fire: Immune | Ice: Weak 
+Nightshadow (9400579) - [I1S1] Ice: Immune | Poison: Immune 
+Elderwraith (9400580) - [H3I1] Holy: Weak | Ice: Immune 
+Stormbreaker (9400581) - [L1] Lighting: Immune 
+Crimson Guardian (9400582) - [F2I2L2S2H1] Fire: Strong | Ice: Strong | Lighting: Strong | Poison: Strong | Holy: Immune 
+Leprechaun (9400583) - [H3I1] Holy: Weak | Ice: Immune 
+Leprechaun (9400584) - [H3I1] Holy: Weak | Ice: Immune 
+Crimson Tree (9400585) - [F3] Fire: Weak 
+Crimson Tree (9400586) - [F3] Fire: Weak 
+Phantom Tree (9400587) - [F3] Fire: Weak 
+Phantom Tree (9400588) - [F3] Fire: Weak 
+Margana (9400590) - [H1L2F2I2F2] Holy: Immune | Lighting: Strong | Fire: Strong | Ice: Strong 
+Rellik (9400592) - [H1F3] Holy: Immune | Fire: Weak 
+Hsalf (9400593) - [I3H1] Ice: Weak | Holy: Immune 
+Master Guardian (9400594) - [I1F1S1L1H1] Ice: Immune | Fire: Immune | Poison: Immune | Lighting: Immune | Holy: Immune 
+Scarlet Phoenix (9400596) - [F1S1I3H3] Fire: Immune | Poison: Immune | Ice: Weak | Holy: Weak 
+Azure Ocelot (9400597) - [I1L1H3F3] Ice: Immune | Lighting: Immune | Holy: Weak | Fire: Weak 
+Birthday Candle (9400601) - [F3] Fire: Weak 
+Angry Strawberry Cake (9400603) - [I2S3] Ice: Strong | Poison: Weak 
+Deluxe Candle (9400604) - [F2I3] Fire: Strong | Ice: Weak 
+Strange Green Mushroom (9400616) - [S1] Poison: Immune 
+Strange Dark Axe Stump (9400618) - [F3] Fire: Weak 
+Strange Zombie Mushroom (9400619) - [H3] Holy: Weak 
+Strange Dark Stump (9400620) - [F3] Fire: Weak 
+Event Pink Bean (9400632) - [P2H2F2I2] Neutral: Strong | Holy: Strong | Fire: Strong | Ice: Strong 
+Rotting Skeleton (9400638) - [S1H3] Poison: Immune | Holy: Weak 
+Malady (9400644) - [H3] Holy: Weak 
+Event Pink Bean (9400654) - [P2H2F2I2] Neutral: Strong | Holy: Strong | Fire: Strong | Ice: Strong 
+Strange Green Mushroom (9400657) - [S1] Poison: Immune 
+Imperial Guard Type A (9400658) - [S1H2] Poison: Immune | Holy: Strong 
+Dunas Type D (9400659) - [S1L3H1] Poison: Immune | Lighting: Weak | Holy: Immune 
+Royal Guard Type S (9400660) - [S1H1] Poison: Immune | Holy: Immune 
+Afterlord Type A (9400661) - [I2S1H2] Ice: Strong | Poison: Immune | Holy: Strong 
+Skel Guard Dog (9400741) - [H3] Holy: Weak 
+Mummy Guard Dog (9400742) - [H3] Holy: Weak 
+Crimson Balrog Minion (9400744) - [S1H3] Poison: Immune | Holy: Weak 
+Jr. Balrog Minion (9400745) - [S1H3] Poison: Immune | Holy: Weak 
+Muscle Stone Minion (9400746) - [I2F2L2S2] Ice: Strong | Fire: Strong | Lighting: Strong | Poison: Strong 
+Bain Minion (9400747) - [F2I3] Fire: Strong | Ice: Weak 
+Red Bubble Tea (9410005) - [F2I3] Fire: Strong | Ice: Weak 
+Yellow Bubble Tea (9410006) - [L2S3] Lighting: Strong | Poison: Weak 
+Green Bubble Tea (9410007) - [S2L3] Poison: Strong | Lighting: Weak 
+Freezer (9420501) - [F3] Fire: Weak 
+Tippo Red (9420504) - [I3] Ice: Weak 
+Tippo Blue (9420505) - [F3] Fire: Weak 
+Trucker (9420507) - [L3] Lighting: Weak 
+Octobunny (9420508) - [S3] Poison: Weak 
+Pac Pinky (9420509) - [H3] Holy: Weak 
+Slimy (9420510) - [H3L3] Holy: Weak | Lighting: Weak 
+Selkie Jr. (9420511) - [F3] Fire: Weak 
+Krexel (9420521) - [F2I3] Fire: Strong | Ice: Weak 
+Krexel (9420522) - [F2I2S2H2L2] Fire: Strong | Ice: Strong | Poison: Strong | Holy: Strong | Lighting: Strong 
+Rodeo (9420533) - [F2I3] Fire: Strong | Ice: Weak 
+Charmer (9420534) - [I3] Ice: Weak 
+Froscola (9420536) - [S2] Poison: Strong 
+Booper Scarlion (9420538) - [F3S3] Fire: Weak | Poison: Weak 
+Vikerola (9420539) - [F3L3] Fire: Weak | Lighting: Weak 
+Gallopera (9420540) - [H3] Holy: Weak 
+Targa (9420542) - [F2I3S1] Fire: Strong | Ice: Weak | Poison: Immune 
+Angry Targa (9420543) - [F2I3S1] Fire: Strong | Ice: Weak | Poison: Immune 
+Furious Targa (9420544) - [F2I3S1] Fire: Strong | Ice: Weak | Poison: Immune 
+Scarlion Boss (9420547) - [I2L2F3] Ice: Strong | Lighting: Strong | Fire: Weak 
+Angry Scarlion Boss (9420548) - [I2L2F3] Ice: Strong | Lighting: Strong | Fire: Weak 
+Furious Scarlion Boss (9420549) - [I2L2F3] Ice: Strong | Lighting: Strong | Fire: Weak 
+Slime (9500100) - [L3] Lighting: Weak 
+Octopus (9500104) - [L3] Lighting: Weak 
+Green Mushroom (9500105) - [S1] Poison: Immune 
+Ligator (9500108) - [I2F3] Ice: Strong | Fire: Weak 
+Star Pixie (9500110) - [H2D3] Holy: Strong | Darkness: Weak 
+Jr. Wraith (9500111) - [H3F3D2] Holy: Weak | Fire: Weak | Darkness: Strong 
+Jr. Pepe (9500112) - [I2F3] Ice: Strong | Fire: Weak 
+Lorang (9500115) - [L3] Lighting: Weak 
+Zombie Lupin (9500116) - [H3D2] Holy: Weak | Darkness: Strong 
+Wraith (9500121) - [H3] Holy: Weak 
+Chief Gray (9500122) - [I2L2F2H2D2] Ice: Strong | Lighting: Strong | Fire: Strong | Holy: Strong | Darkness: Strong 
+Red Drake (9500125) - [F2I3] Fire: Strong | Ice: Weak 
+Ice Drake (9500126) - [I2F3] Ice: Strong | Fire: Weak 
+Master Soul Teddy (9500127) - [L2I1H3D2] Lighting: Strong | Ice: Immune | Holy: Weak | Darkness: Strong 
+Dark Yeti (9500128) - [H3D2] Holy: Weak | Darkness: Strong 
+Taurospear (9500129) - [S1] Poison: Immune 
+Blue King Goblin (9500130) - [F3I2] Fire: Weak | Ice: Strong 
+Lucida (9500131) - [S1H3D2] Poison: Immune | Holy: Weak | Darkness: Strong 
+Yeti and Pepe (9500133) - [I2F3] Ice: Strong | Fire: Weak 
+Lycanthrope (9500134) - [I2F3] Ice: Strong | Fire: Weak 
+Death Teddy (9500135) - [H3F3D2] Holy: Weak | Fire: Weak | Darkness: Strong 
+Gigantic Viking (9500136) - [F2L3] Fire: Strong | Lighting: Weak 
+G. Phantom Watch (9500137) - [H3F3I1D2] Holy: Weak | Fire: Weak | Ice: Immune | Darkness: Strong 
+Bain (9500138) - [F2I3] Fire: Strong | Ice: Weak 
+Jr. Balrog (9500139) - [S1H3D2] Poison: Immune | Holy: Weak | Darkness: Strong 
+Crimson Balrog (9500140) - [S1H3D2] Poison: Immune | Holy: Weak | Darkness: Strong 
+Separated Yeti (9500141) - [I2F3] Ice: Strong | Fire: Weak 
+Separated Pepe (9500142) - [I2F3] Ice: Strong | Fire: Weak 
+Yeti and Coketump (9500147) - [F3I2] Fire: Weak | Ice: Strong 
+Igloo Turtle (9500148) - [F3I2] Fire: Weak | Ice: Strong 
+Ice Golem (9500150) - [F3I2] Fire: Weak | Ice: Strong 
+Three-Tailed Fox (9500155) - [F3H3D2] Fire: Weak | Holy: Weak | Darkness: Strong 
+Wraith (9500156) - [H3D2] Holy: Weak | Darkness: Strong 
+Jr. Wraith (9500157) - [H3F3D2] Holy: Weak | Fire: Weak | Darkness: Strong 
+Yellow King Goblin (9500158) - [F2I3] Fire: Strong | Ice: Weak 
+Blue King Goblin (9500159) - [F3I2] Fire: Weak | Ice: Strong 
+Green King Goblin (9500160) - [S1] Poison: Immune 
+Hankie (9500161) - [S3] Poison: Weak 
+Harp (9500162) - [S3] Poison: Weak 
+Blood Harp (9500163) - [F2I3] Fire: Strong | Ice: Weak 
+Black Kentaurus (9500164) - [H3] Holy: Weak 
+Red Kentaurus (9500165) - [F2I3] Fire: Strong | Ice: Weak 
+Blue Kentaurus (9500166) - [I2F3] Ice: Strong | Fire: Weak 
+Jr. Balrog (9500169) - [H3] Holy: Weak 
+Crimson Balrog (9500171) - [H3] Holy: Weak 
+Griffey (9500173) - [L2S3] Lighting: Strong | Poison: Weak 
+Manon (9500174) - [F2I3] Fire: Strong | Ice: Weak 
+Blue Mushmom (9500176) - [F3] Fire: Weak 
+Zoo Balrog (9500200) - [S1H3] Poison: Immune | Holy: Weak 
+Zoo Yeti (9500201) - [I2F3] Ice: Strong | Fire: Weak 
+Zoo White Fang (9500202) - [I2F3] Ice: Strong | Fire: Weak 
+King Slime (9500340) - [I2F2L2H2D2] Ice: Strong | Fire: Strong | Lighting: Strong | Holy: Strong | Darkness: Strong 
+Alishar (9500343) - [I2F2L2H2S2D2] Ice: Strong | Fire: Strong | Lighting: Strong | Holy: Strong | Poison: Strong | Darkness: Strong 
+Lord Pirate (9500349) - [I2F2L2H2S2D2] Ice: Strong | Fire: Strong | Lighting: Strong | Holy: Strong | Poison: Strong | Darkness: Strong 
+Papa Pixie (9500351) - [I2F2L2H2S2D2] Ice: Strong | Fire: Strong | Lighting: Strong | Holy: Strong | Poison: Strong | Darkness: Strong 
+Jr. Balrog (9500353) - [S1H3D2] Poison: Immune | Holy: Weak | Darkness: Strong 
+Crimson Balrog (9500358) - [S1H3D2] Poison: Immune | Holy: Weak | Darkness: Strong 
+Manon (9500359) - [F2I3] Fire: Strong | Ice: Weak 
+Griffey (9500360) - [L2S3] Lighting: Strong | Poison: Weak 
+Leviathan (9500361) - [F2I2] Fire: Strong | Ice: Strong 
+Pianus (9500363) - [F3] Fire: Weak 
+Barnard Gray (9500366) - [L3] Lighting: Weak 
+Zeta Gray (9500367) - [L3] Lighting: Weak 
+Ultra Gray (9500368) - [L2] Lighting: Strong 
+Chief Gray (9500369) - [I2L2F2H2D2] Ice: Strong | Lighting: Strong | Fire: Strong | Holy: Strong | Darkness: Strong 
+Cancel Element (9501011) - [F1L1I1S1H1P1D1] Fire: Immune | Lighting: Immune | Ice: Immune | Poison: Immune | Holy: Immune | Neutral: Immune | Darkness: Immune 
+Reduce Element (9501012) - [F2L2I2S2H2P2D2] Fire: Strong | Lighting: Strong | Ice: Strong | Poison: Strong | Holy: Strong | Neutral: Strong | Darkness: Strong 
+Expand Element (9501013) - [F3L3I3S3H3P3D3] Fire: Weak | Lighting: Weak | Ice: Weak | Poison: Weak | Holy: Weak | Neutral: Weak | Darkness: Weak 
+해군 이등병 유령 (9700030) - [H2] Holy: Strong 
+해군 일등병 유령 (9700031) - [H2] Holy: Strong 
+해군 상병 유령 (9700032) - [H2] Holy: Strong 
+해군 병장 유령 (9700033) - [H2] Holy: Strong 
+해군 하사 유령 (9700034) - [H2] Holy: Strong 
+일등 항해사 (9700035) - [H2] Holy: Strong 
+유령선 함장 (9700037) - [H2] Holy: Strong 
